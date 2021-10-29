@@ -1,4 +1,4 @@
-# Tech News HTML
+# Info News Html
 ![](./screenshot.png)
 
 # Recomendations
